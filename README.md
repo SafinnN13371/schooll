@@ -1,1 +1,1 @@
-# schooll
+# school
